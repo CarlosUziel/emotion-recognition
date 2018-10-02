@@ -1,5 +1,4 @@
-# Bachelor Thesis
-# Facial Emotion Recognition with Convolutional Neural Networks
+# Bachelor Thesis: Facial Emotion Recognition with Convolutional Neural Networks
 ## Abstract
 Deep Learning and Neuromarketing, two disciplines representing the state of the art in their corresponding fields of knowledge, act together for the first time to solve a problem that has been addressed multiple times. To understand what the consumers really want. By using advanced artificial intelligence techniques, such as convolutional neural networks, this work tries (and succeeds) to detect emotions through the analysis of a person’s facial expressions. With the outcome of said analysis, it is possible to predict the effectiveness of ads depending on which emotions advertisers want their consumers to feel.
 
